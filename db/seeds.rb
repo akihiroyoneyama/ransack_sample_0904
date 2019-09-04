@@ -1,0 +1,5 @@
+User.create!(name: "速水", age: 35)
+User.create!(name: "もこみち", age: 37)
+User.create!(name: "佐藤", age: 27)
+User.create!(name: "健", age: 29)
+User.create!(name: "江口洋介", age: 47)
